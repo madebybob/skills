@@ -1,6 +1,6 @@
 ---
 name: process-pr-review
-description: Process and act on review comments left on your GitHub PR. Trigger when the user shares a PR URL or number and wants to handle/address/process review feedback, Copilot suggestions, or code review comments. Fetches all unresolved review threads, assesses each one, proposes actions, and after approval: makes code changes, commits, and marks threads as resolved.
+description: "Process and act on review comments left on your GitHub PR. Trigger when the user shares a PR URL or number and wants to handle/address/process review feedback, Copilot suggestions, or code review comments. Fetches all unresolved review threads, assesses each one, proposes actions, and after approval: makes code changes, commits, and marks threads as resolved."
 ---
 
 # Process PR Review Comments
